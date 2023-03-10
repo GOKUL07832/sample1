@@ -1,0 +1,4 @@
+Home Directory
+Linux OS has a separate home directory for a user. 
+The files and directories created by a user are stored under a particular home directory. 
+A user cannot store the files under any other user's directory, as it is not allowed to access the other user's directory

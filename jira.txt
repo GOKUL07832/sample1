@@ -1,0 +1,17 @@
+Jira is a software testing tool. It is a bug tracking tool that reports all the issues related to your software or mobile apps
+JIRA is based on the Agile methodology and the current version of the Jira is 6.
+Aspects provided by the jira:-
+Projects:-It is used to manage the defects very effectively.
+Issues:-It is used to track and manage the defects/issues.
+Workflow:-process the issues/detect lifecycle.
+search:-find with ease.Suppose we have done with a project at the beginning of the December and its version is 1.0. Now, we move to version 1.1 and completed at the end of December. What we are doing is that we are adding new versions. Through Jira, we can get to know that what happened in the earlier versions, how many defects occurred in the earlier projects and the learning we achieve from the earlier projects.
+Dashboards:-dashboard is a display which you see when you log in to the jira.You can create the personal dashboard and can add the gadgets in a dashboard so that you can keep track of the assignments and issues that you are working on.
+Agile Methodology:-Agile is a practice that promotes continuous iterations of development and testing throughout the software.
+Agile is a philosophy, i.e., a set of values and principles to make a decision for developing software.
+Agile is based on the iterative-incremental model. In an incremental model, we create the system in increments, where each increment is developed and tested individually.
+Artifacts of Scrum:-
+Product Backlog is a collection of activities that need to be done within the project.
+Sprint Backlog
+We know that in a scrum, we break the scrum into 'n' number of sprints and the objective of a sprint is to bring the small functionality of the software and ship it to the client for demo.
+In Product backlog, we have to do all the activities which are required to develop the software while in the sprint backlog
+a small set of product backlog activities are performed within that sprint. The 'n' number of sprint backlogs is equal to the 1 product backlog.

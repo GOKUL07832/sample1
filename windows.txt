@@ -1,0 +1,28 @@
+IP Address:- logical address to identify the each device in the www
+ipconfig(command)
+MAC Address:-physical address the MAC Address is the unique identifier of each host and is associated with its NIC
+Port: 
+A port can be referred to as a logical channel through which data can be sent/received to an application.
+A port number is a 16-bit integer, hence, we have 216 ports available
+netstat -a (command)
+DNS Server: 
+DNS stands for Domain Name system. 
+DNS is basically a server which translates web addresses or URLs (ex: www.google.com) into their corresponding IP addresses
+nslookup (command)
+ARP: 
+ARP stands for Address Resolution Protocol. 
+It is used to convert an IP address to its corresponding physical address(i.e., MAC Address).
+TCP:-TCP transmits data in a way that resembles character-by-character transmission rather than separate packets.
+A starting point that establishes the connection, the whole transmission in byte order, and an ending point that closes the connection make up this transmission.
+
+
+
+fault tolerance:-It is the prevention of data loss if a component fails
+if fault tolerance fails the disaster recovery would be last option
+disaster recovery:-the process of rebuilding an organization's data after a disaster.
+
+full,incremental,differential
+
+full backup:- full backup will occured
+incremental backup:-backsup the data that has been changed since the last full or incremental backup
+differntial backup:-
